@@ -1,1 +1,1 @@
-![from blocks to text diagram](./blocks-to-text.svg)
+![from blocks to text diagram](https://github.com/blocks-to-text/.github/blob/main/profile/blocks-to-text.svg)
